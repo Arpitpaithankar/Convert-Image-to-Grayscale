@@ -1,0 +1,12 @@
+h1 {
+  color: gray;
+}
+
+canvas {
+  height: 200px;
+  border: 1px solid;
+}
+
+input {
+  font-size: 15pt;
+}
